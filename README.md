@@ -14,9 +14,9 @@ This repository contains the publication figures and fully reproducible R code f
 
 <img src="figures/figure1_foundational-elements-of-a-map.png" width="700" alt="Figure 1: Foundational elements of a map, annotated to show compass rose, scale bar, legend, and title for a map of Nord-Ouest, Cameroon.">
 
-*A map of Nord-Ouest, Cameroon annotated to illustrate the foundational cartographic elements referenced in the manuscript.*
+*A figure depicting foundational cartographic elements referenced in the manuscript.*
 
-A [print-quality PDF](figures/figure1_foundational-elements-of-a-map.pdf) is also available.
+A [print-quality PDF](figures/figure1_foundational-elements-of-a-map.pdf?raw=true) is also available.
 
 ---
 
@@ -38,7 +38,7 @@ Three-panel figure illustrating how model-based geostatistics can transform spar
 
 *Illustrative example — simulated data. MDA threshold: 20%. Treat: P > 75% | Uncertain: 25–75% | Don't treat: P < 25%.*
 
-Print-quality PDFs: [color](figures/figure2_color.pdf) | [grayscale](figures/figure2_grayscale.pdf)
+Print-quality PDFs: [color](figures/figure2_color.pdf?raw=true) | [grayscale](figures/figure2_grayscale.pdf?raw=true)
 
 ---
 
