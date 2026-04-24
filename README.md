@@ -38,7 +38,7 @@ Three-panel figure illustrating how model-based geostatistics can transform spar
 
 *Illustrative example — simulated data. MDA threshold: 20%. Treat: P > 75% | Uncertain: 25–75% | Don't treat: P < 25%.*
 
-Print-quality PDFs: [color](figures/figure2_color.pdf?raw=true) | [grayscale](figures/figure2_grayscale.pdf?raw=true)
+Print-quality PDFs: [color](figures/figure2_color.pdf) | [grayscale](figures/figure2_grayscale.pdf)
 
 ---
 
